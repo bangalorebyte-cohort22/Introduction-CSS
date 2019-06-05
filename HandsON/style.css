@@ -1,0 +1,25 @@
+body{
+    background-color: beige;
+}
+
+.container{
+    background-color: aquamarine;
+}
+#myspecialbox{
+    background-color: black
+}
+.box-2{
+    width:50%;
+    background-color: chartreuse;
+    margin: 20%
+}
+.box-1{
+    width:80%;
+    background-color: azure;
+    padding:20px;
+    border:20px red solid;
+    margin:10%;
+    font:lighter 20px Arial;
+}
+
+
