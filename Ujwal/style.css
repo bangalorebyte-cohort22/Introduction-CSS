@@ -1,0 +1,26 @@
+body{
+    background-color: beige;
+
+}
+
+.container{
+    background-color: aquamarine;
+}
+
+.box-1{
+    background-color: fuchsia;
+    width: 35%;
+    margin: 32.5%;
+}
+
+.box-2{
+    width: 80%;
+    background-color: rgb(44, 147, 236);
+    padding: 20px;
+    border: 80px red solid;
+    font: lighter 20px Arial;
+}
+
+#my_shitty_word{
+    color: rgb(132, 184, 12);
+}
