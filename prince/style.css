@@ -1,0 +1,28 @@
+body{
+    background-color:#494749;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:50 px;
+    font:bold 20px 'Gill Sans';
+    font-weight: bold;
+    line-height: 2em;
+    margin: 10%;
+    margin: 1px 10px 0px 10px;
+
+}
+h1{
+    color: magenta;
+
+}
+
+.container{
+    background-color: blue;
+    width: 80%;
+    padding:20px;
+    border: 10px red solid;
+    margin: 5%;
+    font: bold 20px Arial;    
+}
+
+#myid{
+    background-color:black;
+}
